@@ -1,0 +1,16 @@
+
+Logistic Regression – Titanic Survival Prediction
+
+Model: Logistic Regression
+Dataset: Titanic (Seaborn)
+
+Evaluation Metrics:
+Accuracy : 0.770949720670391
+Precision: 0.71875
+Recall   : 0.6666666666666666
+F1-score : 0.6917293233082706
+AUC      : 0.83399209486166
+
+Conclusion:
+The model effectively classifies survival outcomes and balances
+precision and recall, making it suitable for binary classification tasks.
